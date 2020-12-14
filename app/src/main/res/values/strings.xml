@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bem Vindo</string>
+    <string name="welcome">aplicação de bem-vindo!</string>
+    <string name="image_descripition">imagem de logo de materia de progIV</string>
+</resources>
